@@ -13,7 +13,7 @@
 </style>
 
 <div class="container">
-    <table class="table text-white tbale-bordered text-center">
+    <table class="table text-white table-bordered text-center">
         <tr class="bg-primary">
             <th>Id</th>
             <th>Name</th>
